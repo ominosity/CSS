@@ -967,6 +967,13 @@ textarea {
 
     #animalTypeFilter button{
       padding: 3px;
+	  background-color: #34a598;
+	  border-color: #34a598;
+    }
+	
+	#animalTypeFilter button:hover{
+      background-color: #236092;
+	  border-color: #236092;
     }
 
     .container {
